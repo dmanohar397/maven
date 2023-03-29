@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>manohar</artifactId>
 	<packaging>war</packaging>
-	<version>22.44.66</version>
+	<version>22.11.66</version>
 	<name>my-app</name>
 	
 	<!-- Demo on Github Webhooks-->
